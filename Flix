@@ -1,0 +1,35 @@
+{
+  "update_enforcement": "not_mandatory",
+  "message": "\nFixed FVSTREAM Movie Server... Downloader Code: 1504072\n",
+  "version_code": "60",
+  "version_name": "v3.1.2r",
+  "apk_url": "https://github.com/fvision8/fvreleases/releases/download/v3.1.2r/FlixVision_v3.1.2r.apk",
+  "iptv_url":"https://ia601204.us.archive.org/27/items/d_20231225_202312/D.m3u",
+  "domain":"http://185.112.144.240",
+  "anime_domain":"https://mozigo.hu/movies",
+  "live_tv_main_active":false,
+  "ml_host":"https://lp352engiao.com",
+  "autoembed":"https://autoembed.co",
+  "ads":true,
+  "MovieRulzHindi":"https://mozimix.com/movies/?pwa=1",
+  "anime_ajax_host":"https://napifilm.hu/",
+  "drama_host":"https://netfree2.cc/tv/movies",
+  "unity_ads":true,
+  "janint":true,
+  "janint2":true,
+  "load_logos":true,
+  "futumov_pattern":true,
+  "secure_gomov":false,
+  "ads_delay":30,
+  "playlists": [
+      {
+        "url":"https://iptv-org.github.io/iptv/index.country.m3u",
+        "name":"#IPTV-ORG by Country"
+      },
+      {
+        "url":"https://iptv-org.github.io/iptv/index.category.m3u",
+        "name":"#IPTV-ORG by Category"
+      }
+    ],
+    "traff_sd":true
+}
